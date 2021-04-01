@@ -106,7 +106,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         sb.append("&radius=5000");
         sb.append("&types=" + "restaurant");
         sb.append("&sensor=true");
-        sb.append("&key=AIzaSyCYRozVASyIKM7Vc8ljqzN3joqRrIGL72E");
+        sb.append("&key=.your_key");
         System.out.println(("Map  "+ "api: " + sb.toString()));
 
 
